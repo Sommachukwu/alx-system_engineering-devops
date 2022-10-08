@@ -1,1 +1,1 @@
-5. Write a script that adds execute permission to the owner of the file hello.
+6. create script for multiple permissions to the owner, group owner and read permission to other users
