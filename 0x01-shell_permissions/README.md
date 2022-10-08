@@ -1,1 +1,1 @@
-7. script that adds execution permission to the owner, the group owner and the other users
+8. a script that sets the permission to the file
