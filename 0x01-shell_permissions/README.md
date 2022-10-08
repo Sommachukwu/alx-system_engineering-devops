@@ -1,1 +1,1 @@
-6. create script for multiple permissions to the owner, group owner and read permission to other users
+7. script that adds execution permission to the owner, the group owner and the other users
