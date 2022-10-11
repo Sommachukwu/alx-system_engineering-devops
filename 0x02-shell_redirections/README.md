@@ -1,1 +1,1 @@
-25. a script that decodes acrostics that use the first letter of each line.
+26. script that parses web servers logs in TSV format as input
