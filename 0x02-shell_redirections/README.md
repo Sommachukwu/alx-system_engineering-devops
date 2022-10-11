@@ -1,1 +1,1 @@
-26. script that parses web servers logs in TSV format as input
+11. script that counts the number of directories and sub-directories in the current directory.
